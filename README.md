@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://s201.q4cdn.com/697889289/files/design/Harley-Davidson-logo-white.png" alt="Preview do Projeto BalleCoffee" width="100%">
+  <img src="Layout_motos.jpg" alt="Preview do Projeto ExpoMoto" width="100%">
 </p>
 
 ## 💻 Sobre o Projeto
